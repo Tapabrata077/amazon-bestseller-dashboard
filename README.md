@@ -3,7 +3,7 @@
 An interactive dashboard built using Python, Pandas, Matplotlib, and Streamlit to analyze Amazon Best Selling Books. Upload a CSV to explore filterable metrics, author/genre breakdowns, and price/rating distributions across 1,000+ titles.
 
 ## Live Demo
-[Add your Streamlit Community Cloud link here once deployed]
+Streamlit Community Cloud link : (https://amazon-bestseller-dashboard-ryvfamucgqdsngzr4n3dyu.streamlit.app/)
 
 ## Features
 - Summary metrics: total books, unique authors, average rating, average price
